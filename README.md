@@ -5,3 +5,4 @@ A test repository to learn git, as part of the Reproducible R Workshop
 
 - practice git
 - have fun!
+- eat lunch, yum
